@@ -1,0 +1,3 @@
+Issue [number=3, id=205607777, state=Closed, title=Issue1, body=Body, createdAt=2017-02-06T14:51:09Z, closedAt=2017-02-06T14:51:09Z, user=User [login=harshini, id=123], assignee=User [login=harshini, id=123]
+Issue [number=2, id=205607558, state=Open, title=Issue2, body=Body, createdAt=2017-02-08T14:51:09Z, closedAt=2017-02-07T14:51:09Z, user=User [login=mitta, id=1234], assignee=User [login=harshini, id=123]
+Issue [number=1, id=2302895, state=Open, title=Issue3, body=Body, createdAt=2017-12-08T14:51:09Z, closedAt=2017-01-07T14:51:09Z, user=User [login=harshini, id=123], assignee=User [login=mitta, id=1234]
