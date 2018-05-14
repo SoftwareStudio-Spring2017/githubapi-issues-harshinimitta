@@ -59,7 +59,7 @@ public class GitHubRestClient {
         HttpGet httpget = new HttpGet(uri);
         try {
             response = httpclient.execute(target, httpget, localContext);
-            System.out.println("Response: "+response.getStatusLine());
+            System.out.println("Response Data: "+response.getStatusLine());
 
             HttpEntity entity = response.getEntity();
             BufferedReader reader = new BufferedReader(
